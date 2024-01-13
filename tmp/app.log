@@ -1,0 +1,1 @@
+{"level":30,"time":1705011203461,"pid":33496,"hostname":"stepansPC","message_id":419,"from":{"id":421656012,"is_bot":false,"first_name":"Mr. Muffin","username":"MrVaka","language_code":"uk"},"chat":{"id":421656012,"first_name":"Mr. Muffin","username":"MrVaka","type":"private"},"date":1705011203,"text":"/about","entities":[{"offset":0,"length":6,"type":"bot_command"}]}
